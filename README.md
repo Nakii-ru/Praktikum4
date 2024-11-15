@@ -41,8 +41,7 @@ for i, data in enumerate(nilai_data, start=1):
     print(f"{i}  | {data['nama']}\t| {data['nim']} | {data['tugas']}  | {data['uts']}| {data['uas']}| {data['nilai_akhir']:.2f}        |")
 print("=" * 64)
 ```
-# Hasil Kode 
-![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-11-14%20124523.png?raw=true)
+
 # Penjelasan Kode
 ```python
 nilai_data = []
@@ -84,4 +83,7 @@ print("=" * 64)
 ```
 Setelah Program berakhir, maka program akan menampilkan hasil data Mahasiswa dan Nilai Akhir yang sudah diinputkan.
 # Flowchart Kode
-![foto](https://github.com/Nakii-ru/foto/blob/main/Praktikum4.png?raw=true)
+![foto](https://github.com/Nakii-ru/foto/blob/main/prak4.drawio(1).png?raw=true)
+
+# Hasil Kode 
+![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-11-14%20124523.png?raw=true)
