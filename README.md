@@ -1,4 +1,4 @@
-# Praktikum4 - Data List
+# Praktikum 4 - Data List
 
 NAMA : RIDHO FHADLY HAMZAH
 
@@ -83,7 +83,7 @@ print("=" * 64)
 ```
 Setelah Program berakhir, maka program akan menampilkan hasil data Mahasiswa dan Nilai Akhir yang sudah diinputkan.
 # Flowchart Kode
-![foto](https://github.com/Nakii-ru/foto/blob/main/prak4.drawio(1).png?raw=true)
+![prak.pict](https://github.com/Nakii-ru/prak.pict/blob/main/prak4.drawio(2).png?raw=true)
 
 # Hasil Kode 
 ![foto](https://github.com/Nakii-ru/foto/blob/main/Screenshot%202024-11-14%20124523.png?raw=true)
